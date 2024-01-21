@@ -1,0 +1,13 @@
+.listBox {
+    display: flex;
+  }
+  
+  .listBox li {
+    list-style: none;
+    margin-right: 10px;
+    cursor: pointer;
+    border: 1px solid tomato;
+    padding: 5px 10px;
+    border-radius: 10px;
+  }
+  
